@@ -1,0 +1,10 @@
+version: "3.9"
+
+services:
+  web:
+    image: php:8.3-apache
+    container_name: php-localhost
+    ports:
+      - "8080:80"
+    volumes:
+      - /home/phantasmavaga/Projects/php-learning-journey/
