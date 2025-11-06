@@ -5,17 +5,7 @@
   
 </head>
 <body>
-<style>
-    body { font-family: Arial, sans-serif; line-height: 1.6; padding: 2em; background: #f9f9f9; color: #333; }
-    h1, h2, h3 { color: #2c3e50; }
-    code { background: #eef; padding: 0.2em 0.4em; border-radius: 3px; }
-    .file-list { background: #fff; padding: 1em; border-1px solid #ddd; border-radius: 4px; }
-    .file-list ul { list-style: none; padding: 0; }
-    .file-list li { padding: 0.3em 0; }
-    .emoji { margin-right: 0.4em; }
-    a { color: #2980b9; text-decoration: none; }
-    a:hover { text-decoration: underline; }
-  </style>
+
 <h1>📘 PHP Learning Journey</h1>
 
 <p>Welcome to <strong>php-learning-journey</strong> — a collection of example files showcasing basic-to-intermediate PHP concepts. Designed as a friendly, code-first resource for hands-on learners. 🎓</p>
