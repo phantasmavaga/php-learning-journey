@@ -73,8 +73,6 @@
     <li>Open your browser and go to <code>http://localhost:8000</code> (or the specific port you chose).</li>
   </ol>
 
-  <p><strong>Note:</strong> Avoid including any personal device IPs or credentials in the configuration files. Keep environment-specific data out of version control.</p>
-
   <hr>
 
   <h2>💡 Contribution & Feedback</h2>
