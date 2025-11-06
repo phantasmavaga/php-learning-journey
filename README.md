@@ -80,10 +80,6 @@
 
   <hr>
 
-  <h2>✅ Commit Example</h2>
-  <p>When you add or update files, a good commit message might be:</p>
-  <pre><code>git add .<br>git commit -m "🧠 Add example for associative array loop"</code></pre>
-
   <p>Happy coding! 🎉</p>
 
 </body>
