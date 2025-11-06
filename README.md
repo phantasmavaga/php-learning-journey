@@ -2,8 +2,10 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>php-learning-journey 🚀</title>
-  <style>
+  
+</head>
+<body>
+<style>
     body { font-family: Arial, sans-serif; line-height: 1.6; padding: 2em; background: #f9f9f9; color: #333; }
     h1, h2, h3 { color: #2c3e50; }
     code { background: #eef; padding: 0.2em 0.4em; border-radius: 3px; }
@@ -14,9 +16,6 @@
     a { color: #2980b9; text-decoration: none; }
     a:hover { text-decoration: underline; }
   </style>
-</head>
-<body>
-
 <h1>📘 PHP Learning Journey</h1>
 
 <p>Welcome to <strong>php-learning-journey</strong> — a collection of example files showcasing basic-to-intermediate PHP concepts. Designed as a friendly, code-first resource for hands-on learners. 🎓</p>
